@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sammedcjain
-- 👨‍💻 I’m interested in Blockchain, Web3, AI&ML, Data science, Network security systems, Android development. 
-- 👀 I’m currently learning React.
+- 👨‍💻 I’m interested in Full Stack Web Development, React development, Web3 & Blockchain, Data and Network security systems. 
+- 👀 I’m currently learning React and Redux .
 - 💼 Seeking a beginner role to enhance and explore my technical knowledge
 - 📧 How to reach me -> 
 https://in.linkedin.com/in/sammed-jain-663572203
