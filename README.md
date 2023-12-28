@@ -5,6 +5,8 @@
 - 📧 How to reach me -> 
 https://in.linkedin.com/in/sammed-jain-663572203
 
+- 📃 Here's my resume -> https://drive.google.com/file/d/1k_6IfcEfaRUHoyid07UL4V1kkBKar7fS/view?usp=drive_link 
+
 
 <!---
 sammedcjain/sammedcjain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
